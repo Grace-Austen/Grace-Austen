@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I'm Grace Austen
+- Computer science major at Clemson University, set to get my bachelor of science Fall 23
+- I'm aiming to work as a data scientist because the wide application allows me to follow my passion
+- I have experience in C/C++, Java, Python, and HTML/CSS/Javascript
+
+
 <!--
 **Grace-Austen/Grace-Austen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
