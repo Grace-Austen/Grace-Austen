@@ -2,7 +2,7 @@
 
 - I'm Grace Austen
 - Computer science major at Clemson University, set to get my bachelor of science Fall 23
-- I'm aiming to work as a data scientist because the wide application allows me to follow my passion
+- I'm aiming to work as a data scientist because the wide application allows me to follow my interests
 - I have experience in C/C++, Java, Python, and HTML/CSS/Javascript
 
 
