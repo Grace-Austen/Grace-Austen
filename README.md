@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - I'm Grace Austen
-- Computer science major at Clemson University, set to get my bachelor of science Fall 23
-- I'm aiming to work as a data scientist because the wide application allows me to follow my interests
-- I have experience in C/C++, Java, Python, and HTML/CSS/Javascript
+- I graduated with my master's in computer science at Clemson University in Spring 24
+- My concentration is data science,machine learning, and visualization
+- I have experience in Python, HTML/CSS/Javascript, C/C++, and Java
 
 
 <!--
